@@ -1,5 +1,4 @@
 
-//
 //  BookCell.h
 //  CollectionViewAutoLayout
 //
@@ -17,5 +16,5 @@
 @property (nonatomic,retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,strong) IBOutlet UITextView *bookDescription;
 @property (nonatomic,strong) IBOutlet UITextView *dummyDescription;
-@property (nonatomic,strong) IBOutlet UITextView *dummydummyDescription;
+@property(nonatomic,strong) IBOutlet UITextView *dummydummydymmyDescription;
 @end
