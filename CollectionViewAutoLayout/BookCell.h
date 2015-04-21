@@ -16,5 +16,5 @@
 @property (nonatomic,strong) IBOutlet UITextView *bookDescription;
 @property (nonatomic,strong) IBOutlet UITextView *dummyDescription;
 @property(nonatomic,strong) IBOutlet UITextView *dummydummydymmyDescription;
-@property(nonatomic,strong) IBOutlet UITextView *HehehehdummydummydymmyDescription;
+@property(nonatomic,strong) IBOutlet UITextView *bddummydummydymmyDescription;
 @end
