@@ -16,11 +16,6 @@
 @property (nonatomic, retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,strong) IBOutlet UITextView *bookDescription;
-=======
-@property (nonatomic,strong) IBOutlet AsyncImageView *bookImage;
-@property (nonatomic,strong) IBOutlet UILabel *bookTitle;
-@property (nonatomic,retain) IBOutlet UITextView *bookDescription;
->>>>>>> rm
 @property (nonatomic,strong) IBOutlet UITextView *dummyDescription;
 
 @end
