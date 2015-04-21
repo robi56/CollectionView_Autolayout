@@ -11,7 +11,7 @@
 #import "AsyncImageView.h"
 @interface BookCell : UICollectionViewCell
 
-@property (nonatomic,strong) IBOutlet AsyncImageView *bookImage;
+@property (nonatomic,retain) IBOutlet AsyncImageView *bookImage;
 @property (nonatomic, retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,strong) IBOutlet UITextView *bookDescription;
