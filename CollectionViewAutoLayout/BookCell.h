@@ -15,4 +15,6 @@
 @property (nonatomic, retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,retain) IBOutlet UILabel *bookTitle;
 @property (nonatomic,strong) IBOutlet UITextView *bookDescription;
+@property(nonatomic,strong) IBOutlet UITextView *dummydummydymmyDescription;
+
 @end
