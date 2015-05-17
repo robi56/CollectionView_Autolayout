@@ -21,6 +21,7 @@
 @property (nonatomic) int searchInformationType;
 @property (nonatomic) BOOL isImageSearchEnabled;
 @property (nonatomic,strong) NSIndexPath* currentScrollIndex;
+@property (nonatomic,strong) NSString *stringForCheck;
 @end
 
 @implementation ViewController
