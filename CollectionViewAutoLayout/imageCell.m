@@ -10,4 +10,8 @@
 
 @implementation ImageCell
 
+-init{
+self = [super init];
+return self;
+}
 @end
