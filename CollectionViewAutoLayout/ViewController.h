@@ -19,7 +19,7 @@ typedef NS_ENUM(NSInteger, ImformationType){
 
 @property (nonatomic,strong) IBOutlet UICollectionView *picCollectionView;
 @property (nonatomic,strong) IBOutlet UISearchBar *picSearchBar;
-
+@property (nonatomic,strong) IBOutlet UISearchBar *picSearchBar1;
 
 @end
 
