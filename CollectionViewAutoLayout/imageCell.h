@@ -13,4 +13,6 @@
 @property (nonatomic,strong) IBOutlet UIView *container;
 @property(nonatomic,strong) IBOutlet AsyncImageView *picture;
 @property(nonatomic,strong) IBOutlet UILabel *imageLabel;
+@property (nonatomic,strong) IBOutlet UILabel *imageTextLabel;
+
 @end

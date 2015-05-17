@@ -10,4 +10,12 @@
 
 @implementation BookCell
 
+
+-init{
+
+    self= [super init];
+    return self;
+    
+
+}
 @end
